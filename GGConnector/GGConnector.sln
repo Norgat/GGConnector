@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGConnector", "GGConnector.csproj", "{EE14A6FE-2019-47B0-9FCB-09F4567B990C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Connection", "..\Connection\Connection.csproj", "{AC9A0D9A-6C37-4765-B354-7D4FB6D848E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE14A6FE-2019-47B0-9FCB-09F4567B990C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE14A6FE-2019-47B0-9FCB-09F4567B990C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE14A6FE-2019-47B0-9FCB-09F4567B990C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE14A6FE-2019-47B0-9FCB-09F4567B990C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC9A0D9A-6C37-4765-B354-7D4FB6D848E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC9A0D9A-6C37-4765-B354-7D4FB6D848E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC9A0D9A-6C37-4765-B354-7D4FB6D848E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC9A0D9A-6C37-4765-B354-7D4FB6D848E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
